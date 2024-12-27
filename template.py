@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project="Airplane sensor"
+project="Airplane_sensor"
 
 list_of_files=[
     f"src/{project}/__init__.py",
